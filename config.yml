@@ -1,4 +1,4 @@
-token: "lip_S0ougvWGtIewpe9hI3wv"         # Lichess OAuth2 Token.
+token: "lip_eXMwjkfLxVDqQ4ohjTyR"         # Lichess OAuth2 Token.
 
 engine:                                   # Engine settings.
   dir: "./engines"               # Directory containing the engine.

@@ -1,8 +1,8 @@
 token: "lip_eXMwjkfLxVDqQ4ohjTyR"         # Lichess OAuth2 Token.
 
 engine:                                   # Engine settings.
-  dir: "./engines"               # Directory containing the engine.
-  name: "stockfish"        # Binary name of the engine to use.
+  dir: "./"               # Directory containing the engine.
+  name: "sf"        # Binary name of the engine to use.
   ponder: true                            # Think on opponent's time.
   polyglot:
     enabled: true                         # Activate polyglot book.

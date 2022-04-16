@@ -2,7 +2,7 @@ token: "lip_eXMwjkfLxVDqQ4ohjTyR"         # Lichess OAuth2 Token.
 
 engine:                                   # Engine settings.
   dir: "./engines"               # Directory containing the engine.
-  name: "fairy-sf"        # Binary name of the engine to use.
+  name: "stockfish"        # Binary name of the engine to use.
   ponder: true                            # Think on opponent's time.
   polyglot:
     enabled: true                         # Activate polyglot book.
@@ -89,5 +89,5 @@ matchmaking:
 
 
 books: 
-    lichess-book: "./engines/lichess-book.bin"  # Name of the opening book (to be used above in the polyglot section) and path to the polyglot opening book.  
-    allplay: "./engines/elo3300.bin"
+    lichess-book: "./Goi5.1.bin"  # Name of the opening book (to be used above in the polyglot section) and path to the polyglot opening book.  
+    allplay: "./Goi5.1.bin"

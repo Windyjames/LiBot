@@ -90,4 +90,4 @@ matchmaking:
 
 books: 
     lichess-book: "./engines/Goi5.1.bin"  # Name of the opening book (to be used above in the polyglot section) and path to the polyglot opening book.  
-    allplay: "./engines/Goi5.1.bin"
+    allplay: "./engines/allplay.bin"
